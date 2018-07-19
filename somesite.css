@@ -1,0 +1,12 @@
+/* CSS Document */
+
+#content {
+	width: 800px;
+	height: 500px;
+}
+
+#main {
+	margin: 0px;
+	border: thin solid blue;
+	width: 800px;
+}
